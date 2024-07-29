@@ -1,20 +1,3 @@
-# THE FIRST ONE
-### SECOND ONE
-###### LAST ONE
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--TRIED DIFFERENT SIZES OF HEADERS
